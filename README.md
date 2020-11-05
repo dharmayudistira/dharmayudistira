@@ -1,5 +1,5 @@
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="dharmayudistira" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dharmayudistira&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="dharmayudistira" />
 </p>
 
 - 🔭 I’m currently working at isekai-world named "earth" as a Full Time Learner⚡
@@ -10,6 +10,7 @@
 <hr>
 <p align="center">
   <i><b>Let's connect and chat!</b></i>
+    </br>
 
   <a href="https://in.linkedin.com/in/dharmayudistira/">
     <img align="left" alt="Dharma Yudistira | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
