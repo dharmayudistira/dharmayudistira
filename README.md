@@ -1,10 +1,12 @@
-<hr>
 - 🔭 I’m currently working at isekai-world named "earth" as a Full Time Learner⚡
+
 - 🌱 I’m currently learning mobile development
+
 - 👯 I’m looking to collaborate on Android Projects, Web Development Projects and Flutter Projects
+
 - ⚡ Quote: When there is a will, there is a way.
 
-<hr>
+</hr>
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmayudistira&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -13,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dharmayudistira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dharma's GitHub Stats" />
 </a>
 
-<hr>
+</hr>
 <p align="center">
    <p align="center>
         <a href="https://in.linkedin.com/in/dharmayudistira/">
