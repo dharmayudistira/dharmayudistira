@@ -7,12 +7,9 @@
 - 🌱 I’m currently learning mobile development
 - 👯 I’m looking to collaborate on Android Projects, Web Development Projects and Flutter Projects
 - ⚡ Quote: When there is a will, there is a way.
-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=dharmayudistira" alt="dharmayudistira" /> </p>
 
 <hr>
 <p align="center">
-  <i><b>Let's connect and chat!</b></i>
-   </br>
    <p align="center>
         <a href="https://in.linkedin.com/in/dharmayudistira/">
             <img align="left" alt="Dharma Yudistira | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
@@ -23,5 +20,6 @@
         <a href="mailto:dharmayudistira2000@gmail.com">
             <img align="left" alt="Dharma Yudistira | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
         </a>
+        <p align="center"> <img src="https://komarev.com/ghpvc/?username=dharmayudistira" alt="dharmayudistira" /> </p>
     </p>
 </p>
