@@ -1,4 +1,3 @@
-- 🔭 I’m currently working at isekai-world named "earth" as a Full Time Learner⚡
 - 🌱 I’m currently learning mobile development
 - 👯 I’m looking to collaborate on Android Projects, Web Development Projects and Flutter Projects
 - ⚡ Quote: When there is a will, there is a way.
