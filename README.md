@@ -16,7 +16,7 @@
         <a href="https://in.linkedin.com/in/dharmayudistira/">
             <img align="left" alt="Dharma Yudistira | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
         </a>
-        <a href="https://www.instagram.com/dharmayudistira/">
+        <a href="https://www.instagram.com/dharmayudistira_/">
             <img align="left" alt="Dharma Yudistira | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
         </a>
         <a href="mailto:dharmayudistira2000@gmail.com">
