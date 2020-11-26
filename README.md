@@ -13,7 +13,7 @@
 <hr>
 <p align="center">
    <p align="center>
-        <a href="https://in.linkedin.com/in/dharmayudistira/">
+        <a href="https://www.linkedin.com/in/dharmayudistira/">
             <img align="left" alt="Dharma Yudistira | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
         </a>
         <a href="https://www.instagram.com/dharmayudistira_/">
