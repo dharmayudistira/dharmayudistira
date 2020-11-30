@@ -20,6 +20,6 @@
   </a>
   <a href="mailto:dharmayudistira2000@gmail.com">
     <img align="center" alt="Dharma Yudistira | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-    <img src="https://komarev.com/ghpvc/?username=dharmayudistira&label=Profile%20views&color=0e75b6&style=flat" alt="dharmayudistira" />
+    <img align="center" src="https://komarev.com/ghpvc/?username=dharmayudistira&label=Profile%20views&color=0e75b6&style=flat" alt="dharmayudistira" />
   </a>
 </p>
