@@ -11,7 +11,7 @@
 </a>
 
 <hr>
-<p align="center>
+<p align="center>          
   <a href="https://www.linkedin.com/in/dharmayudistira/">
     <img align="center" alt="Dharma Yudistira | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
@@ -21,4 +21,5 @@
   <a href="mailto:dharmayudistira2000@gmail.com">
     <img align="center" alt="Dharma Yudistira | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=dharmayudistira&label=Profile%20views&color=0e75b6&style=flat" alt="dharmayudistira" /> </p>
 </p>
