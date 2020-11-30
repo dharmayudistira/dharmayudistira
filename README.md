@@ -2,7 +2,7 @@
 - 👯 I’m looking to collaborate on Android Projects, Web Development Projects and Flutter Projects
 - ⚡ Quote: When there is a will, there is a way.
 
-## GitHub Stats
+## GitHub Stats <p align="center"> <img src="https://komarev.com/ghpvc/?username=dharmayudistira&label=Profile%20views&color=0e75b6&style=flat" alt="dharmayudistira" /> </p>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmayudistira&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
