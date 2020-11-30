@@ -14,13 +14,13 @@
 <p align="center">
    <p align="center>
         <a href="https://www.linkedin.com/in/dharmayudistira/">
-            <img align="left" alt="Dharma Yudistira | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+            <img align="center" alt="Dharma Yudistira | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
         </a>
         <a href="https://www.instagram.com/dharmayudistira_/">
-            <img align="left" alt="Dharma Yudistira | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+            <img align="center" alt="Dharma Yudistira | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
         </a>
         <a href="mailto:dharmayudistira2000@gmail.com">
-            <img align="left" alt="Dharma Yudistira | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+            <img align="center" alt="Dharma Yudistira | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
         </a>
     </p>
 </p>
