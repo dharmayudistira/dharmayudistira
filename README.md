@@ -3,10 +3,10 @@
 - ⚡ Quote: When there is a will, there is a way.
 
 ## GitHub Stats
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/dharmayudistira/dharmayudistira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmayudistira&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/dharmayudistira/dharmayudistira">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dharmayudistira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dharma's GitHub Stats" />
 </a>
 
