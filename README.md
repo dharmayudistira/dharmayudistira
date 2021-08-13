@@ -1,3 +1,5 @@
+![MyNameCard](https://cardivo.vercel.app/api?name=Dharma%20Yudistira&description=Hi,%20I%27am%20a%20mobile%20developer%E2%9C%A8%20Nice%20to%20meet%20you%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/40027558?v=4&backgroundColor=%23ecf0f1&instagram=dharmayudistira_&linkedin=Dharma%20Yudistira%20Eka%20Putra&github=dharmayudistira&pattern=leaf&colorPattern=%23eaeaea)
+
 - 🌱 I’m currently learning mobile development
 - 👯 I’m looking to collaborate on Android Projects and Flutter Projects
 - ⚡ Quote: When there is a will, there is a way.
