@@ -1,3 +1,1 @@
-- 🌱 I’m currently learning mobile development
-- 👯 I’m looking to collaborate on Android Projects and Flutter Projects
-- ⚡ Quote: When there is a will, there is a way.
+- ⚡ Quote: By any means necessary.
