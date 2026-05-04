@@ -38,6 +38,12 @@
 - Web3 and on-chain development. Figuring out where it actually makes products better, not just trendier.
 
 ---
+ 
+### How I work with AI
+ 
+I use Claude Code daily. Less for generating code from scratch, more as a second pair of eyes: pushing back on my designs, catching edge cases, and writing the boring parts so I can focus on the parts that need judgment.
+ 
+---
 
 ### Get in touch
 
