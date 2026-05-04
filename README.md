@@ -6,63 +6,38 @@
 
 > I'd rather ship a small improvement every day than rescue a project the week before launch. Compounding works in code the same way it works anywhere else.
 
+***Currently learning*** : Web3 and on-chain development. Figuring out where it actually makes products better, not just trendier.
+
 ---
  
 ### What I work with
  
-**Web**
+<table>
+<tr>
+<th width="30%">Web</th>
+<th width="30%">Mobile</th>
+<th width="30%">Comfortable with</th>
+</tr>
+<tr>
+<td valign="top">
+
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css) ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-333333?style=flat&logo=shadcnui) ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-333333?style=flat&logo=react-query) ![Zustand](https://img.shields.io/badge/-Zustand-333333?style=flat) ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest) ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
  
-- 💻 &nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- 🌐 &nbsp;
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
-  ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-333333?style=flat&logo=shadcnui)
-- 🔄 &nbsp;
-  ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-333333?style=flat&logo=react-query)
-  ![Zustand](https://img.shields.io/badge/-Zustand-333333?style=flat)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-- 🧪 &nbsp;
-  ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
-  ![Playwright](https://img.shields.io/badge/-Playwright-333333?style=flat&logo=playwright)
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
-- Also: React Hook Form + Zod for forms, Clerk and Better Auth for auth.
-**Mobile**
+</td>
+<td valign="top">
+
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter) ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android) ![Riverpod](https://img.shields.io/badge/-Riverpod-333333?style=flat&logo=riverpod) ![BLoC](https://img.shields.io/badge/-BLoC-333333?style=flat) ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart) ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
  
-- 💻 &nbsp;
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-- 📱 &nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-- 🔄 &nbsp;
-  ![Riverpod](https://img.shields.io/badge/-Riverpod-333333?style=flat&logo=riverpod)
-  ![BLoC](https://img.shields.io/badge/-BLoC-333333?style=flat)
-- Also: widget tests and instrumentation tests.
-**Comfortable with**
- 
-- 🛢 &nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
-  ![Drizzle](https://img.shields.io/badge/-Drizzle-333333?style=flat&logo=drizzle)
-- ☁️ &nbsp;
-  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
-- 💳 &nbsp;
-  ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe)
-- 📊 &nbsp;
-  ![Sentry](https://img.shields.io/badge/-Sentry-333333?style=flat&logo=sentry)
-  ![PostHog](https://img.shields.io/badge/-PostHog-333333?style=flat&logo=posthog)
-- 🎨 &nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-- Also: comfortable with raw SQL beyond ORMs, FCM and APNs for push, App Store and Play Store release process, and pixel-perfect handoff with designers.
-**Currently learning**
- 
-Web3 and on-chain development. Figuring out where it actually makes products better, not just trendier.
+</td>
+
+<td valign="top">
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma) ![Drizzle](https://img.shields.io/badge/-Drizzle-333333?style=flat&logo=drizzle) ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel) ![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
+</td>
+
+</tr>
+</table>
  
 ---
  
