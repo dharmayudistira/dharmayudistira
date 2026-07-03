@@ -6,7 +6,7 @@
 
 > I'd rather ship a small improvement every day than rescue a project the week before launch. Compounding works in code the same way it works anywhere else.
 
-***Currently learning*** : Web3 and on-chain development. Figuring out where it actually makes products better, not just trendier.
+***Currently learning*** : Building Truequity: Investment Tracker App. Figuring out where it actually makes products better, not just trendier.
 
 ---
  
