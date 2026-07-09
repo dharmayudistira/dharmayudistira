@@ -2,7 +2,7 @@
 
 **Product Engineer** at [Zero One Group](https://zero-one-group.com), building web and mobile products.
 
-3+ years of experience. Currently full-time, but **open to part-time, freelance, or full-time roles if the fit is right**.
+4+ years of experience. Currently full-time, but **open to part-time, freelance, or full-time roles if the fit is right**.
 
 > I'd rather ship a small improvement every day than rescue a project the week before launch. Compounding works in code the same way it works anywhere else.
 
@@ -43,7 +43,7 @@
  
 ### How I work with AI
  
-I use Claude Code daily. Less for generating code from scratch, more as a second pair of eyes: pushing back on my designs, catching edge cases, and writing the boring parts so I can focus on the parts that need judgment.
+Claude Code is in everything I build, from empty directory to merge. I don't tune it to write more code. I tune it to be predictable: surface tradeoffs, refuse to over-build, never touch a line the task didn't ask for, and disagree with me when I'm wrong. Correctness over agreement. It writes; I decide. Config at [dotclaude](https://github.com/dharmayudistira/dotclaude).
  
 ---
 
