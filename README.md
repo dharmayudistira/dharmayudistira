@@ -5,7 +5,7 @@
 4+ years of experience. Currently full-time, but **open to part-time, freelance, or full-time roles if the fit is right**.
 
 I adopt Abraham Lincoln's quote: 
-> Give me six hours to build it, I'll spend four on foundation. The vibe coders ship faster. They just ship broken
+> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
 
 ***Current Focus*** : Building [Truequity](https://github.com/dharmayudistira/truequity) - Investment Tracker App. Figuring out where it actually makes products better, not just trendier.
 
