@@ -44,7 +44,7 @@ I adopt Abraham Lincoln's quote:
  
 ### How I work with AI
  
-Claude Code is in everything I build, from empty directory to merge. I don't tune it to write more code. I tune it to be predictable: surface tradeoffs, refuse to over-build, never touch a line the task didn't ask for, and disagree with me when I'm wrong. Correctness over agreement. It writes; I decide. Config at [dotclaude](https://github.com/dharmayudistira/dotclaude).
+Claude Code is in everything I build, from empty directory to merge. I don't tune it to write more code. I tune it to be predictable: surface tradeoffs, refuse to over-build, never touch a line the task didn't ask for, and disagree with me when I'm wrong. Correctness over agreement. It writes; I decide. Config at [doteyay](https://github.com/dharmayudistira/doteyay).
  
 ---
 
